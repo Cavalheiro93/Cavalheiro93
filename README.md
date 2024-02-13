@@ -1,6 +1,5 @@
-## Hi there
+##👋 Hi there, I’m Caio dos Santos Cavalheiro.
 
-- 👋 Hi, I’m Caio dos Santos Cavalheiro
 - 👀 I'm interested in Python for Data Analytics and Data Science
 - 🌱 I’m currently learning Python and Power BI.
 - 📫 How to reach me https://www.linkedin.com/in/caio-cavalheiro-436212167/
