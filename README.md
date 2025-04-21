@@ -9,15 +9,13 @@
 ### 🚀 Sobre mim
 
 Sou apaixonado por dados e por transformar problemas reais em soluções inteligentes com tecnologia.  
-Tenho grande domínio em **Excel**, **VBA**, **Python** e **Power BI**, atuando com automações, análises, processos de ETL e visualizações estratégicas.
+Comecei minha carreira com foco em automações com **Excel, VBA e Power BI**, mas hoje estou mergulhando de cabeça no universo da **Engenharia de Dados**.
 
-Atualmente, estou expandindo meus horizontes com ferramentas modernas de **Engenharia de Dados**, explorando:
+Atualmente, tenho trabalhado com ferramentas modernas como **Python**, **Databricks**, **AWS (S3 e Redshift)**, **Docker** e **Apache Airflow**, construindo pipelines automatizados e escaláveis — sempre com o objetivo de criar soluções que agreguem valor de verdade.
 
-- **SQL** para consultas otimizadas e manipulação eficiente de dados  
-- **Databricks (Spark)** para processamento distribuído em larga escala  
-- **AWS (S3 e Redshift)** para construção de pipelines e arquitetura em nuvem
-  
-Confira meu projeto completo publicado no GitHub: [**MVP Brasileirão Data Engineering**](https://github.com/Cavalheiro93/mvp-brasileirao-data-engineering)
+Confira um dos meus projetos completos publicado no GitHub:  
+[**MVP Brasileirão Data Engineering**](https://github.com/Cavalheiro93/mvp-brasileirao-data-engineering)
+
 
 ---
 
@@ -28,13 +26,15 @@ Confira meu projeto completo publicado no GitHub: [**MVP Brasileirão Data Engin
 - **Power BI** – Desenvolvimento de relatórios interativos com foco em visual storytelling e análise de indicadores
 - **SQL** – Criação de consultas, modelagem relacional e integração entre diferentes fontes de dados
 - **AWS + Databricks** – Projetos práticos com arquitetura em nuvem, pipelines com Spark e orquestração de dados
-
+- **Docker + Airflow** – Criação e orquestração de pipelines automatizados, uso de DAGs compostas, PythonSensor, TriggerDagRunOperator e containers Docker
 ---
 
 ### 📈 Atualmente aprendendo
 
 - **Boas práticas em Engenharia de Dados**: Data Lakes, pipelines e modelagem para alto desempenho  
-- **Integração entre Databricks + AWS**: leitura e escrita no S3, conexão com Redshift  
+- **Integração entre Databricks + AWS**: leitura e escrita no S3, conexão com Redshift
+- **Orquestração com Apache Airflow**: boas práticas com DAGs compostas, encadeamento, monitoramento com sensores e modularização
+- **Uso prático do Docker**: Criação de ambiente isolado com Docker Compose para execução local do Apache Airflow, testado com sucesso em diferentes máquinas ao clonar o projeto pelo GitHub
 - **Versionamento e documentação de projetos** no GitHub  
 - **Fundamentos de Machine Learning** – em breve nos repositórios!
 
@@ -42,6 +42,7 @@ Confira meu projeto completo publicado no GitHub: [**MVP Brasileirão Data Engin
 
 ### 📌 Projetos em destaque
 
+- `pipeline-clima-docker-airflow`: Pipeline de coleta e processamento de dados climáticos com Docker + Apache Airflow, usando sensores, operadores e DAGs encadeadas para orquestração automatizada
 - `mvp-brasileirao-data-engineering`: Pipeline completo com **Databricks + AWS**, focado na análise de desempenho do São Paulo FC no Brasileirão 2024  
 - `12-Meses-Agregados`: Projeto com automações em **PySide + Pandas**, cruzando dados de produção industrial de forma visual  
 - `Gerenciador-de-Tarefas`: Aplicativo simples com Python e **PySide6** para organização de rotinas pessoais e profissionais
